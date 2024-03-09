@@ -1,0 +1,3 @@
+1. Calculate home court advantage per team
+2. Normalize overtime games?
+3. margin of victory/loss of my picks?

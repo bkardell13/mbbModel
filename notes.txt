@@ -1,0 +1,639 @@
+v1.0: degree 3, base add,sub for hca, no mods from recent games 
+seton hall @ creighton
+
+    prediction: creighton 77.8 seton hall 69.3, confidence 0.265
+    line: creighton -9.5 o/u 144.5
+    my model: seton hall +9.5, over 144.5 
+    outcome: creighton 85 seton hall 64
+    model's performance: line - miss, total - hit, ML - hit
+
+Nebraska @ ohio st
+
+    prediction: Nebraska 74.9 Ohio St 72.2, confidence NA
+    line: ohio st -2.5 o/u 144.5
+    my model: Nebraska +2.5 (-2.7), over 144.5 (147.1)
+    outcome: Nebraska 69 Ohio St 78
+    model's performance: line - miss, total - hit, ML - miss
+
+Maine @ Binghamton
+
+    prediction: Binghamton 66.2 Maine 64.1, confidence 0.2302
+    line: Binghamton -2.5, o/u 132.5
+    my model: Maine +2.5 (+2.1), under 132.5 (130.3)
+    outcome: Binghamton 76 Maine 74 (OT)
+    model's performance: line - hit, total - miss (26 pts scored in ot), ML - hit
+    
+Michigan @ Rutgers
+
+    prediction: Rutgers 69.7 Michigan 61.5, confidence 0.4041
+    line: Rutgers -6.5, o/u 137.5
+    my model: Rutgers -6.5 (-8.2), under 137.5 (131.2)
+    outcome: Rutgers 82 Michigan 52
+    model's performance: line - hit, total - hit, ML - hit
+
+Stanford @ Utah
+
+    prediction: 80.2 Stanford 71.8, confidence 0.2056
+    line: Utah -7.5, o/u 156
+    my model: Utah -7.5 (-8.4), under 156 (152)
+    outcome: Utah 90 Stanford 68
+    model's performance: line - hit, total - miss, ML - hit
+
+Gonzaga @ San Francisco
+
+    prediction: San Francisco 70.0 Gonzaga 74.8, confidence 0.4501
+    line: Gonzaga -3.5, o/u 155.5
+    my model: Gonzaga -3.5 (-4.8), under 155 (144.8)
+    kenpom: San Francisco +3.5 (+3), under 155 (151)
+    outcome: San Francisco 68 Gonzaga 86
+    model's performance: line - hit, total - hit, ML - hit
+
+USC @ Washington State
+
+    prediction: Washington State 76.9 USC 65.2, confidence 0.2991
+    line: Washington State -8.5, o/u 137.5
+    my model: Washington State -8.5 (-11.7), over 137.5 (142.1)
+    kenpom: Washington State -8.5 (-10), over 137.5 (140)
+    outcome: Washington State 75 USC 72
+    model's performance: line - miss, total - hit, ML - hit
+
+Florida @ South Carolina
+
+    prediction: South Carolina 76.0 Florida 76.0
+    line: South Carolina -2.5, o/u 144.5
+    my model: Florida +2.5 (+0), over 144.5 (152)
+    kenpom: Florida + 2.5 (+1), over 144.5 (147)
+    outcome: South Carolina 82 Florida 76
+    model's performance: line - miss, total - hit, ML - NA
+
+Kansas @ Baylor
+
+    prediction: Kansas 72.8 Baylor 71.9, confidence 0.3173
+    line: Baylor -4.5, o/u 144.5
+    my model: Kansas +4.5 (-0.9), over 144.5 (144.7)
+    kenpom: Baylor -4.5 (-5), over 144.5 (147)
+    barttorvik: Kansas +4.5 (+3), over 144.5 (147)
+    outcome: Baylor 82 Kansas 74
+    model's performance: line - miss, total - hit, ML - miss
+
+Oregon @ Arizona
+
+    prediction: Oregon 74.6 Arizona 91.8, confidence 0.3640
+    line: Arizona -13.5, o/u 158.5
+    my model: Arizona -13.5 (-17.2), over 158.5 (166.4)
+    kenpom: Arizona -13.5 (-14), under 158.5 (158)
+    barttorvik: Arizona -13.5, (-15), over 158.5 (159)
+    outcome: Arizona 103 Oregon 83
+    model's performance: line - hit, total - hit, ML - hit
+
+Tennessee @ Alabama
+
+    prediction: Alabama 74.5 Tennessee 83.2
+    line: Alabama -3.5, o/u 175.5
+    my model: Tennessee +3.5 (-8.7), under 175.5 (157.7)
+    kenpom: Tennessee +3.5 (+2), under 175.5 (168)
+    barttorvik: Tennessee +3.5 (+3), under 175.5 (169)
+    outcome: Tennessee 81 Alabama 74
+    model's performance: line - hit, total - hit, ML - hit
+
+Virginia @ Duke
+
+    prediction: Duke 72.4 Virginia 58.3, confidence 0.3299
+    line: Duke -9.5, o/u 125.5
+    my model: Duke -9.5 (-14.1), over 125.5 (130.7)
+    kenpom: Duke -9.5 (-11), over 125.5 (127)
+    outcome: Duke 73 Virginia 48
+    model's performance: line - hit, total - miss, ML - hit
+
+Gonzaga @ Saint Mary's
+
+    prediction: Saint Mary's 70.7 Gonzaga 64.2, confidence 0.4320
+    line: Saint Mary's -3, o/u 141
+    my model: Saint Mary's -3 (-6.5), under 141 (134.9)
+    kenpom: NO PICK, NO PICK
+    outcome: Saint Mary’s 57 Gonzaga 70
+    model's performance: line - miss, total - hit, ML - miss
+
+Iowa @ Northwestern
+
+    prediction: Northwestern 78.3 Iowa 77.7, confidence 0.4879
+    line: Northwestern -2.5, o/u 149
+    my model: Iowa +2.5 (+0.6), over 149 (156)
+    kenpom: Northwestern -2.5 (-4), over 149 (158)
+    outcome: Iowa 87 Northwestern 80
+    model's performance: line - hit, total - hit, ML - hit
+
+Houston @ Oklahoma
+
+    prediction: Oklahoma 53.2 Houston 69.0, confidence 0.4749
+    line: Houston -7, o/u 129
+    my model: Houston -7 (-15.8), under 129 (122.2)
+    kenpom: Oklahoma +7 (+6), over 129 (130)
+    outcome: Oklahoma 85 Houston 87
+    model's performance: line - miss, total - miss, ML - hit
+
+Clemson @ Notre Dame
+
+    prediction: Notre Dame 65.4 Clemson 70.3, confidence 0.2074
+    line: Clemson -5.5, o/u 132.5
+    my model: Notre Dame +5.5 (+4.9), over 132.5 (135.7)
+    kenpom: Clemson -5.5 (-7), under 132.5 (131)
+    outcome: Clemson 62 Notre dame 69
+    model's performance: line - hit, total - miss, ML - miss
+
+Harvard @ Yale
+
+    prediction: Yale 75.2 Harvard 64.8, confidence 0.3462
+    line: Yale -11.5, o/u 138.5
+    my model: NO PICK, over 138.5 (140)
+    kenpom: NO PICK, NO PICK
+    outcome: Yale 80 Harvard 60
+    model's performance: line - NA, total - hit (exact), ML - hit
+
+Michigan State @ Purdue
+
+    prediction: Purdue 75.4 Michigan State 67.7, confidence 0.3306
+    line: Purdue -10.5, o/u 145.5
+    my model: Michigan State +10.5 (+7.7), under 145.5 (143.1)
+    kenpom: NO PiCK, NO PICK
+    outcome: Purdue 80 Michigan state 74
+    model's performance: line - hit, total - miss, ML - hit
+
+California @ Utah
+
+    prediction: Utah 81.4 California 72.1, confidence 0.2918
+    line: Utah -9, o/u 155
+    my model: Utah -9 (-9.3), under 155 (153.5)
+    Kenpom:  California +9 (+8), under 155 (152)
+    Outcome: Utah 88 cal 59
+    Models performance: line - hit, total - hit, ML - hit
+
+Rutgers @ Nebraska
+
+    prediction: Nebraska 70.2 Rutgers 62.3, confidence 0.3087
+    line: Nebraska -9, o/u 141
+    my model: NO PICK, under 141 (132.5)
+    kenpom: NO PICK, under 141 (133)
+    outcome: Nebraska 67 Rutgers 56
+    model's performance: line - NA, total - hit, ML - hit
+
+Murray State @ Indiana State
+
+    prediction: Indiana State 87.4 Murray State 68.4, confidence 0.2621
+    line: Indiana State -14, o/u 150
+    my model: Indiana State -14 (-19), over 150 (155.8)
+    kenpom: Murray State +14 (+12), over 150 (152)
+    outcome: Indiana State 89 Murray State 77
+    model's performance: line - miss, total - hit, ML - hit
+
+Michigan @ Ohio State
+
+    prediction: Ohio State 80.4 Michigan 73.4, confidence 0.3403
+    line: Ohio State -12, o/u 145
+    my model: Michigan +12 (+7), over 145 (153.8)
+    kenpom: Michigan +12 (+8), over 145 (148)
+    outcome: Ohio State 84 Michigan 61
+    model's performance: line - miss, total - tied, ML - hit
+
+Bradley @ Drake
+
+    prediction: Drake 81.3 Bradley 69.9
+    line: Drake -4.5, o/u 147.5
+    my model: Drake -4.5 (-11.4), over 147.5 (151.2)
+    kenpom: NO PICK, NO PICK
+    outcome: Drake 74 Bradley 66
+    model's performance: line - hit, total - miss, ML - hit
+
+Stanford @ Colorado
+
+    prediction: Colorado 86.0 Stanford 69.4, confidence 0.3381
+    line: Colorado -12, o/u 155.5
+    my model: Colorado -12 (-16.4), NO PICK
+    kenpom: NO PICK, NO PICK
+    outcome: Colorado 81 Stanford 71
+    model's performance: line - miss, total - NA, ML - hit
+
+UAB @ Memphis
+
+    prediction: Memphis 81.6 UAB 73.9, confidence 0.1154
+    line: Memphis -7.5, o/u 159.5
+    my model: NO PICK, under 159.5 (155.5)
+    kenpom: Memphis -7.5 (-9), NO PICK
+    outcome: Memphis 106 UAB 87
+    model's performance: line - NA, total - miss, ML - hit
+
+Texas @ Baylor
+
+    prediction: Baylor 79.7 Texas 74.7, confidence 0.4195
+    line: Baylor -7, o/u 145
+    my model: Texas +7 (+5), over 145 (154.4)
+    kenpom: Texas +7 (+6), over 145 (150)
+    outcome: Baylor 93 Texas 85
+    model's performance:  line - miss, total - hit, ML - hit
+
+Duke @ NC State
+
+    prediction: NC State 70.3 Duke 78.2, confidence 0.3865
+    line: Duke -6, o/u 145
+    my model: Duke -6 (-7.9), over 145 (148.5)
+    kenpom: NO Pick, over 145 (150)
+    outcome: Duke 79 NC State 64
+    model's performance: line - hit, total - miss, ML - hit
+
+Idaho State @ Montana
+
+    prediction: Montana 81.5 Idaho State 69.8, confidence 0.2852
+    line: Montana -8, o/u 141.5
+    my model: Montana -8 (-11.7), over 141.5 (151.3)
+    kenpom: NO PICK, over 141.5 (144)
+    outcome: Montana 79  Idaho State 65
+    model's performance: line - hit, total - hit, ML - hit
+-------------------------------------------------------------
+Purdue @ Illinois
+
+    prediction: Illinois 82.2 Purdue 83.4, confidence 0.3086
+    line: Illinois - 1.5, o/u 163.5
+    my model: Purdue + 1.5 (-1.2), over 163.5 (165.6)
+    kenpom: Purdue + 1.5 (-1), over 163.5 (169)
+    outcome: Purdue 77 Illinois 71
+    model's performance: line - hit, total - miss, ML - hit
+
+Alabama @ Florida
+
+    prediction: Florida 88.4 Alabama 92.3, confidence 0.3583
+    line: Florida -1.5, o/u 177.5
+    my model: Alabama +1.5 (-3.9), over 177.5 (180.7)
+    kenpom: Alabam +1.5 (-3), over 177.5 (179)
+    outcome: Florida 105 Alabama 87 
+    model's performance: line - miss, total - hit, ML - miss
+
+Dayton @ Saint Louis
+
+    prediction: Saint Louis 69.8 Dayton 70.4, confidence 0.2927
+    line: Dayton -8.5, o/u 152.5
+    my model: Saint Louis +8.5 (+0.6), under 152.5 (140.2)
+    kenpom: Dayton -8.5 (-11), over 152.5 (155)
+    outcome: Dayton 100 Saint Louis 83
+    model's performance: line - miss, total - miss, ML - hit
+
+Tulane @ USF
+
+    prediction: South Florida 80.0 Tulane 70.6, confidence 0.2077
+    line: USF -7.5, o/u 156.5
+    my model: USF -7.5 (-9.4), under 156.5 (150.6)
+    kenpom: NO PICK, over 156.5 (158)
+    outcome: USF 85 Tulane 72
+    model's performance: line - hit, total - miss, ML - hit
+
+Kansas State @ Kansas
+
+    prediction: Kansas 72 Kansas State 65.5, confidence 0.2203
+    line: Kansas 11.5, o/u 143.5
+    my model: Kansas State +11.5 (+6.5), under 143.5 (137.9)
+    kenpom: Kansas State +11.5 (+10), under 143.5 (138)
+    outcome: Kansas 90 Kansas State 68
+    model's performance: line - miss, total - miss, ML - hit
+
+Jacksonville @ Eastern Kentucky
+
+    prediction: Eastern Kentucky 77.0 Jacksonville 70.2, confidence 0.3009
+    line: EKU -8.5, o/u 144.5
+    my model: Jacksonville +8.5 (+6.8), over 144.5 (147.2)
+    kenpom: Jacksonville +8.5 (+7), over 144.5 (147)
+    outcome: Jacksonville 67 Eastern Kentucky 65
+    model's performance: line - hit, total - miss, ML - miss
+
+Notre Dame @ North Carolina
+
+    prediction: UNC 74.6 Notre Dame 60.1, confidence 0.1792
+    line: UNC -16, o/u 138.5
+    my model: Notre Dame +16 (+14.5), under 138.5 (134.5)
+    kenpom: NO PICK, under 138.5 (134)
+    outcome: UNC 84 Notre Dame 51
+    model's performance: line - miss, total - hit, ML - hit
+
+Syracuse @ Clemson
+
+    prediction: Syracuse 70.8 Clemson 78.1, confidence 0.2287
+    line: Clemson -9.5, o/u 153.5
+    my model: Syracuse +9.5 (+7.3), under 153.5 (148.9)
+    kenpom: NO PICK, NO PICK
+    outcome: Clemson 90 Syracuse 75
+    model's performance: line - miss, total - miss, ML - hit
+
+San Diego State @ UNLV
+
+    prediction: UNLV 65.7 San Diego State 72.1, condidence 0.1557
+    line: San Diego State -1.5, o/u 134.5
+    my model: San Diego State -1.5 (-6.4), over 134.5 (137.3)
+    kenpom: San Diego State -1.5 (-3), over 134.5 (137)
+    outcome: San Diego State 58 UNLV 62
+    model's performance: line - miss, total - miss, ML - miss
+
+North Florida @ Austin Peay
+
+	prediction: Austin Peay 79.1 North Florida 74.5, confidence 0.3687
+	line: Austin Peay -4.5, o/u 143.5
+    my model: NO PICK, over 143.5 (153.6)
+	kenpom: North Florida +4.5 (+3), over 143.5 (147)
+	outcome: Austin Peay 101 North Florida 98
+	model's performance: line - NO PICK, total - hit, ML - hit
+
+BYU @ Iowa State
+
+	prediction: Iowa State 74.9 BYU 72.0, confidence 0.48452
+	line: Iowa State -7.5, o/u 145.5
+	my model: BYU +7.5 (+2.9), over 145.5 (146.9)
+	kenpom: BYU +7.5 (+5), over 145.5 (147)
+	outcome: Iowa State 68 BYU 63
+	model's performance: line - hit, total - miss, ML - hit
+
+Vanderbilt @ Kentucky
+
+	prediction: Kentucky 90.1 Vanderbilt 68.9, confidence 0.23765
+	line: Kentucky -17.5, o/u 160.5
+	my model: Kentucky -17.5 (-21.2), under 160.5 (159)
+	kenpom: Kentucky -17.5 (-20), under 160.5 (158)
+	outcome: Kentucky 93 Vanderbilt 77
+	model's performance: line - miss, total - miss, ML - hit
+
+Houston @ UCF
+
+	prediction: UCF 48.6 Houston 66.4, confidence 0.4415
+	line: Houston -8.5, o/u 131.5
+	my model: Houston -8.5 (-17.8), under 131.5 (115)
+	kenpom: Houston - 8.5 (-10), under 131.5 (130)
+	outcome: Houston 67 UCF 59
+	model's performance: line - miss, total - hit, ML - hit
+
+LSU @ Arkansas
+
+	prediction: Arkansas 73.4 LSU 75.0, confidence 0.3414
+	line: Arkansas -4.5, o/u 155.5
+	my model: LSU +4.5 (-1.6), under 155.5 (148.4)
+	kenpom: LSU +4.5 (+1), under 155.5 (153)
+	outcome: Arkansas 94 LSU 83
+	model's performance: line - miss, total - miss, ML - miss
+
+Tennessee @ South Carolina
+
+	prediction: South Carolina 69.1 Tennessee 73.3, confidence 0.2777
+	line: Tennessee -5.5, o/u 139.5
+	my model: South Carolina +5.5 (+4.2), over 139.5 (142.4)
+	kenpom: NO PICK, NO PICK
+	outcome: Tennessee 66 South Carolina 59
+	model's performance: line - miss, total - miss, ML - hit
+
+Villanova @ Seton Hall
+
+	prediction: Seton Hall 66.5 Villanova 69.3, confidence 0.3062
+	line: Seton Hall -0.5, o/u 134.5
+	my model: Villanova +0.5 (-2.8), over 134.5 (135.8)
+	kenpom: Villanova +0.5 (-1), under 134.5 (133)
+	outcome: Seton Hall 66 Villanova 56
+	model's performance: line - miss, total - miss, ML - miss
+
+Indiana @ Minnesota
+
+	prediction: Minnesota 77.0 Indiana 68.9, confidence 0.37814
+	line: Minnesota -5.5, o/u 150.5
+	my model: Minnesota -5.5 (-8.1), under 150.5 (145.9)
+	kenpom: NO PICK, NO PICK
+	outcome: Indiana 70 Minnesota 58
+	model's performance: line - miss, total - hit, ML - hit
+
+East Carolina @ SMU
+
+	prediction: SMU 78.7 East Carolina 63.2, confidence 0.3302
+	line: SMU -11.5, o/u 140.5
+	my model: SMU -11.5 (-15.5), over 140.5 (141.9)
+	kenpom: SMU -11.5 (-13), under 140.5 (139)
+	outcome: SMU 80 ECU 77
+	model's performance: line - miss, total - hit, ML - hit
+
+Fresno State @ New Mexico
+
+	prediction: New Mexico 85.7 Fresno State 63.8, confidence 0.3815
+	line: New Mexico -17, o/u 154
+	my model: New Mexico -17 (-21.9), under 154 (149.5)
+	kenpom: New Mexico -17 (-18), NO PICK
+	outcome: New Mexico 79 Fresno State 58
+	model's performance: line - hit, total - hit, ML - hit
+
+Cal State Northridge @ Hawai'i
+
+	prediction: Hawai'i 75.9 Cal State Northridge 67.9, confidence 0.2755
+	line: Hawaii -8. o/u 147
+	my model: NO PICK, under 147 (143.8)
+	kenpom: CSU Northridge +8 (+7), NO PICK
+	outcome: Hawaii 72 CSU Northridge 70
+	model's performance: line - NA, total - hit, ML - hit
+
+Washington @ Washington State
+
+	prediction: Washington State 79.3 Washington 76.0, confidence 0.2059
+	line: Washington State -6.5, o/u 149.5
+	my model: Washington +6.5 (+3.3), over 149.5 (155.3)
+	outcome: Washington 74 Washington State 68
+	model's performance: line - hit, total - miss, ML - miss 
+
+Coastal Carolina vs Louisiana
+
+	prediction: Louisiana 79.6 Coastal Carolina 70.8, confidence 0.2709
+	line: Louisiana -11.5. o/u 150.5
+	my model: Coastal Carolina +11.5 (+8.8), NO PICK
+	outcome: Louisiana 80 Coastal Carolina 66
+	model's performance: line - miss, total - NA, ML - hit
+
+Belmont vs Valparaiso
+
+	prediction: Valparaiso 69.9 Belmont 80.3, confidence 0.2312
+	line: Belmont -13.5, o/u 155.5
+	my model: Valparaiso +13.5 (+10.4), under 155.5 (150.2)
+	outcome: Belmont 86 Valparaiso 61
+	model's performance: line - miss, total - hit, ML - hit
+
+Pepperdine vs Pacific
+
+	prediction: Pacific 64.0 Pepperdine 87.2, confidence 0.3811
+	line: Pepperdine -9.5, o/u 150.5
+	my model: Pepperdine -9.5 (-23.2), NO PICK
+	outcome: Pepperdine 102 Pacific 43
+	model's performance: line - hit, total - NA, ML - hit
+
+Cleveland State @ Youngstown State
+
+	prediction: Youngstown State 81.4 Cleveland State 75.0, confidence 0.2547
+	line: Youngstown State -10.5, o/u 147.5
+	my model: Cleveland State +10.5 (+6.4), over 147.5 (156.4)
+	kenpom: Cleveland State +10.5 (+8), over 147.5 (152)
+	outcome: Cleveland 82 Youngstown State 70
+	model's performance: line - hit, total - hit, ML - miss
+
+Northern Kentucky @ Wright State
+
+	prediction: Wright State 87.8 Northern Kentucky 77.5, confidence 0.2653
+	line: Wright State -8, o/u 161.5
+	my model: Wright State -8 (-10.3), over 161.5 (165.3)
+	outcome: Northern Kentucky 99 Wright State 97
+	model's performance: line - miss, total - hit, ML - miss
+
+North Alabama @ Austin Peay
+
+	prediction: Austin Peay 81.4 North Alabama 74.6, confidence 0.3214
+	line: Austin Peay -3.5, o/u 147.5
+	my model: Austin Peay -3.5 (-6.8), over 147.5 (156)
+	outcome: Austin Peay 77 North Alabama 71
+	model's performance: line - hit, total - hit, ML - hit
+
+Rutgers @ Wisconsin
+
+	prediction: Wisconsin 71.3 Rutgers 62.5, confidence 0.3232
+	line: Wisconsin -10.5, o/u 134.5
+	my model: Rutgers +10.5 (+8.8), under 134.5 (133.8)
+	outcome: Wiscosin 78 Rutgers 66
+	model's performance: line - miss, total - miss, ML - hit
+
+Niagara @ Siena
+
+	prediction: Siena 78.2 Niagara 73.1, confidence 0.2831
+	line: Niagara -7.5, o/u 136.5
+	my model: Siena +7.5 (-5.1), over 136.5 (151.3)
+	outcome: Niagara 66 Siena 59
+	model's performance: line - hit, total - miss, ML - miss
+
+Marshall @ Georgia State
+
+	prediction: Georgia State 75.0 Marshall 73.9, confidence 0.3247
+	line: Marshall -2, o/u 152.5
+	my model: Georgia State +2 (-1.1), under 152.5 (148.9)
+	outcome: Marshall 85 Georgia State 74
+	model's performance: line - miss, total - miss, ML - miss
+
+Southern @ Alabama State
+
+	prediction: Alabama State 63.8 Southern 67.2, confidence 0.2963
+	line: Southern -1, o/u 131.5
+	my model: Alabama State +1 (-3.4), NO PICK
+	outcome: Souther 65 Alabama State 57
+	model's performance: line - miss, total - NA, ML - miss
+
+California @ Stanford
+
+	prediction: Stanford 76.7 California 75.2, confidence 0.2493
+	line: Stanford -4.5, o/u 155.5
+	my model: Cal +4.5 (+1.5), under 155.5 (151.9)
+	outcome: Stanford 80 Cal 58
+	model's performance: line - miss, total - hit, ML - hit
+
+Colorado @ Oregon
+
+	prediction: Oregon 74.5 Colorado 78.8, confidence 0.4192
+	line: Oregon -3.5 0/u 150.5
+	my model: Colorado +3.5 (-4.3), over 150.5 (153.3)
+	outcome: Colorado 78 Oregon 75
+	model's performance: line - hit, total - hit, ML - hit
+
+Radford @ High Point
+
+	prediction: High Point 88.1 Radford 73.6, confidence 0.2306
+	line: High Point -11.5, o/u 151.5
+	my model: High Point -11.5 (-14.5), over 151.5 (161.7)
+	outcome: High Point 77 Radford 63
+	model's performance: line - hit, total - miss, ML - hit
+
+Missouri State @ Indiana State
+
+	prediction: Indiana State 79.8 Missouri State 69.7, confidence 0.2335
+	line: Indiana State -11.5, o/u 149.5
+	my model: Missouri State +11.5 (10.1), NO PICK
+	outcome: Indiana State 75 Missouri State 59
+	model's performance: line - miss, total - NA, ML - hit
+
+William & Mary vs North Carolina A&T
+
+	prediction: North Carolina A&T 69.6 William & Mary 73.0, confidence 0.1476
+	line: William & Mary -6.5, o/u (138.5)
+	my model: North Carolina A&T +6.5 (+3.4), over 138.5 (142.6)
+	outcome: William & Mary 79 North Carolina A&T 62
+	model's performance: line - miss, total - hit, ML - hit
+
+Boise State @ San Diego State
+
+	prediction: San Diego State 72.7 Boise State 66.4, confidence 0.2669
+	line: SDSU -6.5, o/u 136.5
+	my model: NO PICK, over 136.5 (139.1)
+	outcome: San Diego 77 Boise State 77
+	model's performance: line - NA, total - hit, ML - miss
+
+Kansas @ Houston
+
+	prediction: Houston 71.5 Kansas 69.0, confidence 0.3050
+	line: Houston -7.5, o/u 139.5
+	my model: Kansas +7.5 (+2.5), NO PICK
+	outcome:
+	model's performance:
+
+Kentucky @ Tennessee
+
+	prediction: Tennessee 85.0 Kentucky 80.1, confidence 0.2149
+	line: Tennessee -7.5, o/u 166.5
+	my model: Kentucky +7.5 (+4.9), under 166.5 (165.1)
+	outcome:
+	model's performance:
+
+North Carolina @ Duke
+
+	prediction: Duke 82.5 North Carolina 73.8, confidence 0.2916
+	line: Duke -5.5, o/u 150.5
+	my model: Duke -5.5 (-8.7), over 150.5 (156.3)
+	outcome:
+	model's performance:
+
+Little Rock vs Morehead State
+
+	prediction: Morehead State 75.4 Little Rock 71.2, confidence 0.2713
+	line: Morehead State -4.5, o/u 136.5
+	my model: NO PICK, over 136.5 (146.6)
+	outcome:
+	model's performance:
+
+Indiana State vs Northern Iowa
+
+	prediction: Northern Iowa 72.4 Indiana State 79.3, confidence 0.2641
+	line: Indiana State -7.5, o/u 148.5
+	my model: NO PICK, over 148.5 (151.7)
+	outcome:
+	model's performance:
+
+Creighton @ Villanova
+
+	prediction: Villanova 73.0 Creighton 76.5, confidence 0.2583
+	line: Creighton -1.5, o/u 137.5
+	my model: Creighton -1.5 (-3.5), over 137.5 (149.5)
+	outcome:
+	model's performance:
+
+Oklahoma @ Texas
+
+	prediction: Texas 74.2 Oklahoma 69.4, confidence 0.4014
+	line: Texas -5.5, o/u 142.5
+	my model: NO PICK, over 142.5 (143.6)
+	outcome: 
+	model's performance:
+
+Stony Brook vs Northeastern
+
+	prediction: Northeastern 70.2 Stony Brook 72.3, confidence 0.192
+	line: Stony Brook -1.5, o/u 138.5
+	my model: NO PICK, over 138.5 (142.5)
+	outcome:
+	model's performance:
+
+Iowa State @ Kansas State
+
+	prediction: Kansas State 63.0 Iowa State 68.7, confidence 0.3558
+	line: Iowa State -3.5, o/u 135.5
+	my model: Iowa State -3.5 (-5.7), under 135.5 (131.7)
+	outcome:
+	model's performance:

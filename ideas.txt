@@ -1,3 +1,16 @@
-1. Calculate home court advantage per team
-2. Normalize overtime games?
-3. margin of victory/loss of my picks?
+1. Normalize overtime games?
+2. margin of victory/loss of my picks?
+3. adjust spreads to be the basic name
+4. adjust for tempo???
+5. give daily results on how the model did per day when running get_daily_results
+7. give best picks when running get daily schedule
+8. bounding deg 3 model
+9. identify when vegas line and model line teams are not the same
+10. error handling
+11. upload to github
+
+version 1.0
+    - 1.5 weights for last 10 games
+    - 4 point hca for all teams
+version 1.1
+    - hca calculated per team
